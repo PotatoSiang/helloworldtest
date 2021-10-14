@@ -1,0 +1,1 @@
+web gunicorn TestPrj.wsgi --log-file -
